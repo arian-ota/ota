@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1593051306",
-      "filename": "lineage-17.1-20200625-UNOFFICIAL-GMS-davinci.zip",
-      "id": "e663e739c6c4e282748661128b8dbc20",
+      "datetime": "1593137875",
+      "filename": "lineage-17.1-20200626-UNOFFICIAL-GMS-davinci.zip",
+      "id": "f11438a1b2a981537c75ea2fade08b66",
       "romtype": "UNOFFICIAL",
-      "size": "1254208645",
-      "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-17.1/lineage-17.1-20200625-UNOFFICIAL-GMS-davinci.zip/download",
+      "size": "1254244198",
+      "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-17.1/lineage-17.1-20200626-UNOFFICIAL-GMS-davinci.zip/download",
       "version": "17.1"
     }
   ]
