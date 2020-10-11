@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1601849498",
-      "filename": "lineage-17.1-20201004-UNOFFICIAL-davinci.zip",
-      "id": "f37d2e1d2231924c8499e270bb7652b0",
+      "datetime": "1602374507",
+      "filename": "lineage-17.1-20201011-UNOFFICIAL-davinci.zip",
+      "id": "94a5781f1fd82740881002d46dbdd4fd",
       "romtype": "UNOFFICIAL",
-      "size": "901687666",
-      "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-17.1/lineage-17.1-20201004-UNOFFICIAL-davinci.zip/download",
+      "size": "901697200",
+      "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-17.1/lineage-17.1-20201011-UNOFFICIAL-davinci.zip/download",
       "version": "17.1"
     }
   ]
