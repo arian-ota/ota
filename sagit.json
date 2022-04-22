@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1650634825,
+      "filename": "lineage-19.1-20220422-UNOFFICIAL-GMS-sagit.zip",
+      "id": "90faffb4806387165057be56ce6f5a715030c13ee432fef297386712f3314da1",
+      "romtype": "UNOFFICIAL",
+      "size": 1400866870,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-sagit-90faffb4/lineage-19.1-20220422-UNOFFICIAL-GMS-sagit.zip",
+      "version": "19.1"
+    }
+  ]
+}
