@@ -17,15 +17,6 @@
       "size": 1400850042,
       "url": "https://sourceforge.net/projects/ephedraceae/files/sagit/lineage-19.1/lineage-19.1-20220421-UNOFFICIAL-GMS-sagit.zip/download",
       "version": "19.1"
-    },
-    {
-      "datetime": 1650622698,
-      "filename": "lineage-19.1-20220422-UNOFFICIAL-sagit.zip",
-      "id": "7ef8ca374988144a68ea2631935f9890d8249f528efa6df37795ba5737c209eb",
-      "romtype": "UNOFFICIAL",
-      "size": 828885192,
-      "url": "https://github.com/arian-ota/ota/releases/download/19.1-sagit_gms-7ef8ca37/lineage-19.1-20220422-UNOFFICIAL-sagit.zip",
-      "version": "19.1"
     }
   ]
 }
