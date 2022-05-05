@@ -8,6 +8,15 @@
       "size": 1664626962,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci_gms-cbef5c6b/lineage-19.1-20220504-UNOFFICIAL-GMS-davinci.zip",
       "version": "19.1"
+    },
+    {
+      "datetime": 1651744200,
+      "filename": "lineage-19.1-20220505-UNOFFICIAL-GMS-davinci.zip",
+      "id": "a424c07fc2ed0df23d7a8bc621e87ea3024cef073500f252caa06681882ee251",
+      "romtype": "UNOFFICIAL",
+      "size": 1664632139,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci_gms-a424c07f/lineage-19.1-20220505-UNOFFICIAL-GMS-davinci.zip",
+      "version": "19.1"
     }
   ]
 }
