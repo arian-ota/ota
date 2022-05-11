@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1652258807,
+      "filename": "lineage-19.1-20220511-UNOFFICIAL-davinci.zip",
+      "id": "904b0a5e59b7095e3f94cbcf589a30b4efa949a57ac4d470cbd9b76a4800d5d6",
+      "romtype": "UNOFFICIAL",
+      "size": 1085741666,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-904b0a5e/lineage-19.1-20220511-UNOFFICIAL-davinci.zip",
+      "version": "19.1"
+    }
+  ]
+}
