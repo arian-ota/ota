@@ -8,6 +8,15 @@
       "size": 1085741666,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-904b0a5e/lineage-19.1-20220511-UNOFFICIAL-davinci.zip",
       "version": "19.1"
+    },
+    {
+      "datetime": 1652854720,
+      "filename": "lineage-19.1-20220518-UNOFFICIAL-davinci.zip",
+      "id": "f783a0be7b4aa462c0144adef8901cebfe36c5215546930fca7bf7e3a3e6ce9f",
+      "romtype": "UNOFFICIAL",
+      "size": 1087945411,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-f783a0be/lineage-19.1-20220518-UNOFFICIAL-davinci.zip",
+      "version": "19.1"
     }
   ]
 }
