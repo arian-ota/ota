@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1655458619,
+      "filename": "lineage-19.1-20220617-UNOFFICIAL-cupid.zip",
+      "id": "545b145ba841e3217ed6972a4dc1c7f3d968e506bfbff5ceb2c7adea27a6b33d",
+      "romtype": "UNOFFICIAL",
+      "size": 1801642762,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-545b145b/lineage-19.1-20220617-UNOFFICIAL-cupid.zip",
+      "version": "19.1"
+    }
+  ]
+}
