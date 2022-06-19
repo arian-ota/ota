@@ -17,6 +17,15 @@
       "size": 1803568950,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-f6acd230/lineage-19.1-20220618-UNOFFICIAL-cupid.zip",
       "version": "19.1"
+    },
+    {
+      "datetime": 1655653860,
+      "filename": "lineage-19.1-20220619-UNOFFICIAL-cupid.zip",
+      "id": "c351ff00aa7f5c782352702cda555df822d1e91915c78c66e596213af23315cb",
+      "romtype": "UNOFFICIAL",
+      "size": 1585338202,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-c351ff00/lineage-19.1-20220619-UNOFFICIAL-cupid.zip",
+      "version": "19.1"
     }
   ]
 }
