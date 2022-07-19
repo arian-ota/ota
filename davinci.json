@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1653459736,
-      "filename": "lineage-19.1-20220525-UNOFFICIAL-davinci.zip",
-      "id": "cb9c0f333b5065fc405be72a0a843c1e653c93c76515095de502bbcf8829378c",
-      "romtype": "UNOFFICIAL",
-      "size": 1087948957,
-      "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-cb9c0f33/lineage-19.1-20220525-UNOFFICIAL-davinci.zip",
-      "version": "19.1"
-    },
-    {
       "datetime": 1654064500,
       "filename": "lineage-19.1-20220601-UNOFFICIAL-davinci.zip",
       "id": "f9684b82be35dd2ee84e756977217072398cafe62c4f87e94a51d58407e1dfd8",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1088606372,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-a92b139e/lineage-19.1-20220615-UNOFFICIAL-davinci.zip",
+      "version": "19.1"
+    },
+    {
+      "datetime": 1658265520,
+      "filename": "lineage-19.1-20220719-UNOFFICIAL-davinci.zip",
+      "id": "2af3c754cfb9827c2570238b8bdb4c3b8593e95691ea801027d1221babeb7226",
+      "romtype": "UNOFFICIAL",
+      "size": 1084723043,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-davinci-2af3c754/lineage-19.1-20220719-UNOFFICIAL-davinci.zip",
       "version": "19.1"
     }
   ]
