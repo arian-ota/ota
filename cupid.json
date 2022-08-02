@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1655673902,
-      "filename": "lineage-19.1-20220619-UNOFFICIAL-cupid.zip",
-      "id": "4b31804abcd9fc54afb8b89ec2ed2bde3aab49e78065b31bd02321281677c161",
-      "romtype": "UNOFFICIAL",
-      "size": 1585387428,
-      "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-4b31804a/lineage-19.1-20220619-UNOFFICIAL-cupid.zip",
-      "version": "19.1"
-    },
-    {
       "datetime": 1656626755,
       "filename": "lineage-19.1-20220630-UNOFFICIAL-cupid.zip",
       "id": "5b6888ad264fa5c1b0b2f65d759d197fa7536658a750545502b5f2dc6c71dd58",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1558851573,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-52ca890f/lineage-19.1-20220802-UNOFFICIAL-cupid.zip",
+      "version": "19.1"
+    },
+    {
+      "datetime": 1659480660,
+      "filename": "lineage-19.1-20220802-UNOFFICIAL-cupid.zip",
+      "id": "ba68e96befae01a1f0049ec595a963c758be0203a23b1dfb4128928160ddba63",
+      "romtype": "UNOFFICIAL",
+      "size": 1558853467,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid-ba68e96b/lineage-19.1-20220802-UNOFFICIAL-cupid.zip",
       "version": "19.1"
     }
   ]
