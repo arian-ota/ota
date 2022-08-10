@@ -8,6 +8,15 @@
       "size": 2087677272,
       "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid_gms-e6ca0efc/lineage-19.1-20220802-UNOFFICIAL-GMS-cupid.zip",
       "version": "19.1"
+    },
+    {
+      "datetime": 1660170546,
+      "filename": "lineage-19.1-20220810-UNOFFICIAL-GMS-cupid.zip",
+      "id": "2fd712b6f888990256a4de4389bdbf437699d49cc8ceb28b04ff7a34b0005324",
+      "romtype": "UNOFFICIAL",
+      "size": 2091823308,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-cupid_gms-2fd712b6/lineage-19.1-20220810-UNOFFICIAL-GMS-cupid.zip",
+      "version": "19.1"
     }
   ]
 }
