@@ -8,6 +8,15 @@
       "size": 1002092326,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci-15d4d525/lineage-20.0-20220818-UNOFFICIAL-davinci.zip",
       "version": "20.0"
+    },
+    {
+      "datetime": 1660933787,
+      "filename": "lineage-20.0-20220819-UNOFFICIAL-davinci.zip",
+      "id": "bab28692169f06d8a41e41777f6e1907a07b7aa96f4ed588fa63e47525841506",
+      "romtype": "UNOFFICIAL",
+      "size": 1042863479,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci-bab28692/lineage-20.0-20220819-UNOFFICIAL-davinci.zip",
+      "version": "20.0"
     }
   ]
 }
