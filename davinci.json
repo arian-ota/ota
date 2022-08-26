@@ -8,6 +8,15 @@
       "size": "995358579",
       "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-18.1/lineage-18.1-20220227-UNOFFICIAL-davinci.zip/download",
       "version": "18.1"
+    },
+    {
+      "datetime": 1661515580,
+      "filename": "lineage-18.1-20220826-UNOFFICIAL-davinci.zip",
+      "id": "90ff1b9f3c6d60cd9061f99c106201834b605eb9b6d7bce2254c62c314e46cab",
+      "romtype": "UNOFFICIAL",
+      "size": 1000445043,
+      "url": "https://github.com/arian-ota/ota/releases/download/18.1-davinci-90ff1b9f/lineage-18.1-20220826-UNOFFICIAL-davinci.zip",
+      "version": "18.1"
     }
   ]
 }
