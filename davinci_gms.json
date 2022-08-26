@@ -8,6 +8,15 @@
       "size": "1428951173",
       "url": "https://sourceforge.net/projects/ephedraceae/files/davinci/lineage-18.1/lineage-18.1-20220227-UNOFFICIAL-GMS-davinci.zip/download",
       "version": "18.1"
+    },
+    {
+      "datetime": 1661530650,
+      "filename": "lineage-18.1-20220826-UNOFFICIAL-GMS-davinci.zip",
+      "id": "d62d177dd086a29654f799bfe3fce11d2552fdb60182fc2d77fbc7d8dbd6e0b8",
+      "romtype": "UNOFFICIAL",
+      "size": 1434158940,
+      "url": "https://github.com/arian-ota/ota/releases/download/18.1-davinci_gms-d62d177d/lineage-18.1-20220826-UNOFFICIAL-GMS-davinci.zip",
+      "version": "18.1"
     }
   ]
 }
