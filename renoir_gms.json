@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1661730826,
+      "filename": "lineage-19.1-20220828-UNOFFICIAL-GMS-renoir.zip",
+      "id": "b5b38148be07ed66d614dfada0acc2587420f2a763c36fd6d8647db6eb0c903f",
+      "romtype": "UNOFFICIAL",
+      "size": 1682240615,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-renoir_gms-b5b38148/lineage-19.1-20220828-UNOFFICIAL-GMS-renoir.zip",
+      "version": "19.1"
+    }
+  ]
+}
