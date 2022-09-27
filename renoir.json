@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1664273986,
+      "filename": "lineage-19.1-20220927-UNOFFICIAL-renoir.zip",
+      "id": "3746432fe6134e94aabfb1efad645aec882da1ddba48b39c70b5548a0abd3120",
+      "romtype": "UNOFFICIAL",
+      "size": 1185832625,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-renoir-3746432f/lineage-19.1-20220927-UNOFFICIAL-renoir.zip",
+      "version": "19.1"
+    }
+  ]
+}
