@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1660780446,
-      "filename": "lineage-20.0-20220818-UNOFFICIAL-davinci.zip",
-      "id": "15d4d525d941ac76cab3eefe29744c9dfbd470ac7125550c4bd1579931b921c6",
-      "romtype": "UNOFFICIAL",
-      "size": 1002092326,
-      "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci-15d4d525/lineage-20.0-20220818-UNOFFICIAL-davinci.zip",
-      "version": "20.0"
-    },
-    {
       "datetime": 1660933787,
       "filename": "lineage-20.0-20220819-UNOFFICIAL-davinci.zip",
       "id": "bab28692169f06d8a41e41777f6e1907a07b7aa96f4ed588fa63e47525841506",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1044298636,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci-17de75ac/lineage-20.0-20220820-UNOFFICIAL-davinci.zip",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1668506855,
+      "filename": "lineage-20.0-20221115-UNOFFICIAL-davinci.zip",
+      "id": "e4148fd506c1cf653b514876864048a1ccfa629b9960cab1bde55a0f1b2e239d",
+      "romtype": "UNOFFICIAL",
+      "size": 1102088617,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci-e4148fd5/lineage-20.0-20221115-UNOFFICIAL-davinci.zip",
       "version": "20.0"
     }
   ]
