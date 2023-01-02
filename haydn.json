@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1672697482,
+      "filename": "lineage-19.1-20230102-UNOFFICIAL-haydn.zip",
+      "id": "4aee161103747ab3a9edcb6e72aa531ca414f744a9e2c106e8af96569333e2d0",
+      "romtype": "UNOFFICIAL",
+      "size": 1378739963,
+      "url": "https://github.com/arian-ota/ota/releases/download/19.1-haydn-4aee1611/lineage-19.1-20230102-UNOFFICIAL-haydn.zip",
+      "version": "19.1"
+    }
+  ]
+}
