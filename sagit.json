@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1672761035,
+      "filename": "lineage-20.0-20230103-UNOFFICIAL-sagit.zip",
+      "id": "704da75ed57272b438699cc1d0b918626335aced126d05a4971d045bb71351ac",
+      "romtype": "UNOFFICIAL",
+      "size": 844351725,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-sagit-704da75e/lineage-20.0-20230103-UNOFFICIAL-sagit.zip",
+      "version": "20.0"
+    }
+  ]
+}
