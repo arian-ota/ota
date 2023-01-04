@@ -8,6 +8,15 @@
       "size": 844351725,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-sagit-704da75e/lineage-20.0-20230103-UNOFFICIAL-sagit.zip",
       "version": "20.0"
+    },
+    {
+      "datetime": 1672790766,
+      "filename": "lineage-20.0-20230104-UNOFFICIAL-sagit.zip",
+      "id": "bdde8ed7d4b454288e95511f624060d8598597590da5b6ff8b62c3479a364b6e",
+      "romtype": "UNOFFICIAL",
+      "size": 844435566,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-sagit-bdde8ed7/lineage-20.0-20230104-UNOFFICIAL-sagit.zip",
+      "version": "20.0"
     }
   ]
 }
