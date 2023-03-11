@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1678537049,
+      "filename": "lineage-20.0-20230311-UNOFFICIAL-GMS-davinci.zip",
+      "id": "ba8ea49c082f028b05a163393f7d977d83cc7c084ba4f7221380f2d545d5dc40",
+      "romtype": "UNOFFICIAL",
+      "size": 1869392617,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-davinci_gms-ba8ea49c/lineage-20.0-20230311-UNOFFICIAL-GMS-davinci.zip",
+      "version": "20.0"
+    }
+  ]
+}
