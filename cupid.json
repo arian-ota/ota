@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1678148401,
-      "filename": "lineage-20.0-20230307-UNOFFICIAL-cupid.zip",
-      "id": "30c7b5dbc1340eb147582f9d03a94352e68dfa831bcf571e3c9f2b69d77c80af",
-      "romtype": "UNOFFICIAL",
-      "size": 1434859656,
-      "url": "https://github.com/arian-ota/ota/releases/download/20.0-cupid-30c7b5db/lineage-20.0-20230307-UNOFFICIAL-cupid.zip",
-      "version": "20.0"
-    },
-    {
       "datetime": 1678979250,
       "filename": "lineage-20.0-20230316-UNOFFICIAL-cupid.zip",
       "id": "2733075e37a14780b92ff7225daaa8e6fc33ead977b4ea707ae56db37cc08b7a",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1519650505,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-cupid-73300121/lineage-20.0-20230514-UNOFFICIAL-cupid.zip",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1684180552,
+      "filename": "lineage-20.0-20230515-UNOFFICIAL-cupid.zip",
+      "id": "812c309694cc6ac858e671439dee558606eba0c32f5adc16149d9be128450f55",
+      "romtype": "UNOFFICIAL",
+      "size": 1519608043,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-cupid-812c3096/lineage-20.0-20230515-UNOFFICIAL-cupid.zip",
       "version": "20.0"
     }
   ]
