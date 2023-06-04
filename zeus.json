@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1685879449,
+      "filename": "lineage-20.0-20230604-UNOFFICIAL-zeus.zip",
+      "id": "72812fdff568c95564b0fc3e34f81d358411a5c2b5787b89e7424486423ed343",
+      "romtype": "UNOFFICIAL",
+      "size": 1522602526,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-zeus-72812fdf/lineage-20.0-20230604-UNOFFICIAL-zeus.zip",
+      "version": "20.0"
+    }
+  ]
+}
