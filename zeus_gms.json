@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1687693452,
+      "filename": "lineage-20.0-20230625-UNOFFICIAL-GMS-zeus.zip",
+      "id": "006c4680e6ad34f32a011e910104fe2b4b75d8e1fbf333df5c49ab8d43154685",
+      "romtype": "UNOFFICIAL",
+      "size": 2201678789,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-zeus_gms-006c4680/lineage-20.0-20230625-UNOFFICIAL-GMS-zeus.zip",
+      "version": "20.0"
+    }
+  ]
+}
