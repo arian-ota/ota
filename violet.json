@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1692690442,
+      "filename": "lineage-20.0-20230822-UNOFFICIAL-violet.zip",
+      "id": "661c4bd2754b46b840410716531d7cdf2fd1008116bdaa51d0b160525feae67b",
+      "romtype": "UNOFFICIAL",
+      "size": 1024648163,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-violet-661c4bd2/lineage-20.0-20230822-UNOFFICIAL-violet.zip",
+      "version": "20.0"
+    }
+  ]
+}
