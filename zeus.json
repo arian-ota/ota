@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1687692621,
-      "filename": "lineage-20.0-20230625-UNOFFICIAL-zeus.zip",
-      "id": "5fbb900cbc0835f5dbfa73306456079d62e600ae1fdb026c033890ce495af362",
-      "romtype": "UNOFFICIAL",
-      "size": 1526401028,
-      "url": "https://github.com/arian-ota/ota/releases/download/20.0-zeus-5fbb900c/lineage-20.0-20230625-UNOFFICIAL-zeus.zip",
-      "version": "20.0"
-    },
-    {
       "datetime": 1692441795,
       "filename": "lineage-20.0-20230819-UNOFFICIAL-zeus.zip",
       "id": "67f8a3a019e0269b5c79ff42e7e56b2163c1ff989b92c843f4f8f501938cd370",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1180522532,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-zeus-13263ece/lineage-20.0-20230930-UNOFFICIAL-zeus.zip",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1696075162,
+      "filename": "lineage-20.0-20230930-UNOFFICIAL-zeus.zip",
+      "id": "52fc13bf5447fcdeb4e729dd163bc85b6183443eead7af2efcca35b515a4febf",
+      "romtype": "UNOFFICIAL",
+      "size": 1541809783,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-zeus-52fc13bf/lineage-20.0-20230930-UNOFFICIAL-zeus.zip",
       "version": "20.0"
     }
   ]
