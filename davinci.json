@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1699311075,
+      "filename": "lineage-21.0-20231106-UNOFFICIAL-davinci.zip",
+      "id": "03368531e8511bd3390ae12e5fb11f0f0a807b8afc1e6b30d7cc66a0c67b983f",
+      "romtype": "UNOFFICIAL",
+      "size": 1148716031,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-davinci-03368531/lineage-21.0-20231106-UNOFFICIAL-davinci.zip",
+      "version": "21.0"
+    }
+  ]
+}
