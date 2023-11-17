@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1700263586,
+      "filename": "lineage-20.0-20231117-UNOFFICIAL-mondrian.zip",
+      "id": "5bb78788180aab26346ab36880683eacabc5a94e55fa2f8b3d505b47f0f7c4d6",
+      "romtype": "UNOFFICIAL",
+      "size": 1594530537,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-5bb78788/lineage-20.0-20231117-UNOFFICIAL-mondrian.zip",
+      "version": "20.0"
+    }
+  ]
+}
