@@ -17,6 +17,15 @@
       "size": 1593961348,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-00735435/lineage-20.0-20231125-UNOFFICIAL-mondrian.zip",
       "version": "20.0"
+    },
+    {
+      "datetime": 1702392677,
+      "filename": "lineage-20.0-20231212-UNOFFICIAL-mondrian.zip",
+      "id": "284e6a967cbe29b6a6310160512e4ac1a6d387be705ca04a83319303f28cdd71",
+      "romtype": "UNOFFICIAL",
+      "size": 1592546817,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-284e6a96/lineage-20.0-20231212-UNOFFICIAL-mondrian.zip",
+      "version": "20.0"
     }
   ]
 }
