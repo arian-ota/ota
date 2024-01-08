@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1700951976,
-      "filename": "lineage-20.0-20231125-UNOFFICIAL-mondrian.zip",
-      "id": "00735435139addf38d6d08994f98822d7f8b3ad14c176e87465dad66867ecdeb",
-      "romtype": "UNOFFICIAL",
-      "size": 1593961348,
-      "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-00735435/lineage-20.0-20231125-UNOFFICIAL-mondrian.zip",
-      "version": "20.0"
-    },
-    {
       "datetime": 1702392677,
       "filename": "lineage-20.0-20231212-UNOFFICIAL-mondrian.zip",
       "id": "284e6a967cbe29b6a6310160512e4ac1a6d387be705ca04a83319303f28cdd71",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1592561192,
       "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-cd69be5b/lineage-20.0-20231213-UNOFFICIAL-mondrian.zip",
+      "version": "20.0"
+    },
+    {
+      "datetime": 1704729369,
+      "filename": "lineage-20.0-20240108-UNOFFICIAL-mondrian.zip",
+      "id": "b03ab2f0da3b9d9d03d419cfdeead31b36c10555597b5697918d12d4bce7d611",
+      "romtype": "UNOFFICIAL",
+      "size": 1593747332,
+      "url": "https://github.com/arian-ota/ota/releases/download/20.0-mondrian-b03ab2f0/lineage-20.0-20240108-UNOFFICIAL-mondrian.zip",
       "version": "20.0"
     }
   ]
