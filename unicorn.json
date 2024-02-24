@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1708789379,
+      "filename": "lineage-21.0-20240224-UNOFFICIAL-unicorn.zip",
+      "id": "d060030cf14802cca9b5fc8c913f11bd3d430b0b9d5134fe08d8248b5d1c09be",
+      "romtype": "UNOFFICIAL",
+      "size": 1609837178,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-unicorn-d060030c/lineage-21.0-20240224-UNOFFICIAL-unicorn.zip",
+      "version": "21.0"
+    }
+  ]
+}
