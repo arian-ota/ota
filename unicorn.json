@@ -8,6 +8,15 @@
       "size": 1609837178,
       "url": "https://github.com/arian-ota/ota/releases/download/21.0-unicorn-d060030c/lineage-21.0-20240224-UNOFFICIAL-unicorn.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1709139706,
+      "filename": "lineage-21.0-20240228-UNOFFICIAL-unicorn.zip",
+      "id": "a3395e24d74803cf5bf638d09676cf77e0878bb605df2ca1ca76527294ea3107",
+      "romtype": "UNOFFICIAL",
+      "size": 1719885991,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-unicorn-a3395e24/lineage-21.0-20240228-UNOFFICIAL-unicorn.zip",
+      "version": "21.0"
     }
   ]
 }
