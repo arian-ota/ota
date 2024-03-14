@@ -8,6 +8,15 @@
       "size": 1627664597,
       "url": "https://github.com/arian-ota/ota/releases/download/21.0-cupid-8ce6d191/lineage-21.0-20240307-UNOFFICIAL-cupid.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1710439689,
+      "filename": "lineage-21.0-20240314-UNOFFICIAL-cupid.zip",
+      "id": "8e216db399e43486645e7afac22ff49b7376b2531c3798d36777a81eedc8411e",
+      "romtype": "UNOFFICIAL",
+      "size": 1688709049,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-cupid-8e216db3/lineage-21.0-20240314-UNOFFICIAL-cupid.zip",
+      "version": "21.0"
     }
   ]
 }
