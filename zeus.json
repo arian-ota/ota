@@ -17,6 +17,15 @@
       "size": 1708303986,
       "url": "https://github.com/arian-ota/ota/releases/download/21.0-zeus-931107cb/lineage-21.0-20240318-UNOFFICIAL-zeus.zip",
       "version": "21.0"
+    },
+    {
+      "datetime": 1711496286,
+      "filename": "lineage-21.0-20240326-UNOFFICIAL-zeus.zip",
+      "id": "c8f01a959391fcd01d92ae782ef5da9196048da5a25e877d64574ecfeb19c3d3",
+      "romtype": "UNOFFICIAL",
+      "size": 1718556177,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-zeus-c8f01a95/lineage-21.0-20240326-UNOFFICIAL-zeus.zip",
+      "version": "21.0"
     }
   ]
 }
