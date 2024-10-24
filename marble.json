@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1729760327,
+      "filename": "lineage-21.0-20241024-UNOFFICIAL-marble.zip",
+      "id": "ab8e2013c184a675d8cf790838ad03e20c63bcd094a65975dec6532ef1e15e9c",
+      "romtype": "UNOFFICIAL",
+      "size": 1688380238,
+      "url": "https://github.com/arian-ota/ota/releases/download/21.0-marble-ab8e2013/lineage-21.0-20241024-UNOFFICIAL-marble.zip",
+      "version": "21.0"
+    }
+  ]
+}
