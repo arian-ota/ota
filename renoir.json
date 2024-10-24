@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1729775120,
+      "filename": "lineage-22.0-20241024-UNOFFICIAL-renoir.zip",
+      "id": "ab8aa3847e1190ee5d3ecc6321b57f67f0b2e060befe48adc54bb60c74a46c93",
+      "romtype": "UNOFFICIAL",
+      "size": 1393561847,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.0-renoir-ab8aa384/lineage-22.0-20241024-UNOFFICIAL-renoir.zip",
+      "version": "22.0"
+    }
+  ]
+}
