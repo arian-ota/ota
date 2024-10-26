@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1729958537,
+      "filename": "lineage-22.0-20241026-UNOFFICIAL-TP1803.zip",
+      "id": "47b6f1d7dc87bc8a78799ae587d25163f87d0a0ae971b60af73388b280fd5147",
+      "romtype": "UNOFFICIAL",
+      "size": 1116231498,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.0-TP1803-47b6f1d7/lineage-22.0-20241026-UNOFFICIAL-TP1803.zip",
+      "version": "22.0"
+    }
+  ]
+}
