@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1738059490,
+      "filename": "lineage-22.1-20250128-UNOFFICIAL-mayfly.zip",
+      "id": "7ae2e6a43dc12a3a1604f860eb2c2ccdeb43717eb98865f0fbc556406a3d79f1",
+      "romtype": "UNOFFICIAL",
+      "size": 1797896501,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.1-mayfly-7ae2e6a4/lineage-22.1-20250128-UNOFFICIAL-mayfly.zip",
+      "version": "22.1"
+    }
+  ]
+}
