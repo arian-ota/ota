@@ -8,6 +8,15 @@
       "size": 1731720778,
       "url": "https://github.com/arian-ota/ota/releases/download/22.2-marble-f351a883/lineage-22.2-20250412-UNOFFICIAL-marble.zip",
       "version": "22.2"
+    },
+    {
+      "datetime": 1744455554,
+      "filename": "lineage-22.2-20250412-UNOFFICIAL-marble.zip",
+      "id": "8a4d5c0fd6d942c628557b11804c154d24a916cdf752c17e6bd79335e873147e",
+      "romtype": "UNOFFICIAL",
+      "size": 1731720070,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.2-marble-8a4d5c0f/lineage-22.2-20250412-UNOFFICIAL-marble.zip",
+      "version": "22.2"
     }
   ]
 }
