@@ -17,6 +17,15 @@
       "size": 1294590248,
       "url": "https://github.com/arian-ota/ota/releases/download/22.2-davinci-5c0575d9/lineage-22.2-20250429-UNOFFICIAL-davinci.zip",
       "version": "22.2"
+    },
+    {
+      "datetime": 1745948553,
+      "filename": "lineage-22.2-20250429-UNOFFICIAL-davinci.zip",
+      "id": "b74f132b741051bbd4375fa8bdb48d9c1f0ce6cbb14b85435bed174c092926b2",
+      "romtype": "UNOFFICIAL",
+      "size": 1293448338,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.2-davinci-b74f132b/lineage-22.2-20250429-UNOFFICIAL-davinci.zip",
+      "version": "22.2"
     }
   ]
 }
