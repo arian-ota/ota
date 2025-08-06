@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1754488245,
+      "filename": "lineage-22.2-20250806-UNOFFICIAL-GMS-cupid.zip",
+      "id": "4b94aa8d512d4eb814c72a2fb675970511e08003fa2d94a2625e05462bed4037",
+      "romtype": "UNOFFICIAL",
+      "size": 2636157935,
+      "url": "https://github.com/arian-ota/ota/releases/download/22.2-cupid_gms-4b94aa8d/lineage-22.2-20250806-UNOFFICIAL-GMS-cupid.zip",
+      "version": "22.2"
+    }
+  ]
+}
