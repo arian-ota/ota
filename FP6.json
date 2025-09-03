@@ -17,6 +17,15 @@
       "size": 1472058853,
       "url": "https://github.com/arian-ota/ota/releases/download/22.2-FP6-ae2e3147/lineage-22.2-20250903-UNOFFICIAL-FP6.zip",
       "version": "22.2"
+    },
+    {
+      "datetime": 1756935326,
+      "filename": "lineage-23.0-20250903-UNOFFICIAL-FP6.zip",
+      "id": "140b1199f7ac18636e7e00156f42a14a7f86a5218fb4e6cf92da62f030ab92a0",
+      "romtype": "UNOFFICIAL",
+      "size": 1491543627,
+      "url": "https://github.com/arian-ota/ota/releases/download/23.0-FP6-140b1199/lineage-23.0-20250903-UNOFFICIAL-FP6.zip",
+      "version": "23.0"
     }
   ]
 }
