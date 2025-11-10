@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1762768811,
+      "filename": "lineage-23.0-20251110-UNOFFICIAL-zizhan.zip",
+      "id": "9162fc16f2e4c85e69b55d7d252fc0845deb9736fc8b90a362eff251a0692c51",
+      "romtype": "UNOFFICIAL",
+      "size": 1838992435,
+      "url": "https://github.com/arian-ota/ota/releases/download/23.0-zizhan-9162fc16/lineage-23.0-20251110-UNOFFICIAL-zizhan.zip",
+      "version": "23.0"
+    }
+  ]
+}
