@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1764085716,
+      "filename": "lineage-23.1-20251125-UNOFFICIAL-marble.zip",
+      "id": "5e222d8cc9d37e58a5efeaeb8d8b3f8aae68dca7246d8200c525c12133c33070",
+      "romtype": "UNOFFICIAL",
+      "size": 1795089050,
+      "url": "https://github.com/arian-ota/ota/releases/download/23.1-marble-5e222d8c/lineage-23.1-20251125-UNOFFICIAL-marble.zip",
+      "version": "23.1"
+    }
+  ]
+}
