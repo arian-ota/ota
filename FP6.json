@@ -1,15 +1,6 @@
 {
   "response": [
     {
-      "datetime": 1765751114,
-      "filename": "lineage-23.1-20251214-UNOFFICIAL-FP6.zip",
-      "id": "86664aae23925481744b49de303971da9e38e0e245ab2ed6eede1efaa68c8a31",
-      "romtype": "UNOFFICIAL",
-      "size": 1541650463,
-      "url": "https://github.com/arian-ota/ota/releases/download/23.1-FP6-86664aae/lineage-23.1-20251214-UNOFFICIAL-FP6.zip",
-      "version": "23.1"
-    },
-    {
       "datetime": 1768002937,
       "filename": "lineage-23.2-20260109-UNOFFICIAL-FP6.zip",
       "id": "95adff5b89a3d6eadd7ec8888cdfe115c118925eb7d18483f45157049cbae78f",
@@ -25,6 +16,15 @@
       "romtype": "UNOFFICIAL",
       "size": 1549911723,
       "url": "https://github.com/arian-ota/ota/releases/download/23.2-FP6-34ba7a3f/lineage-23.2-20260111-UNOFFICIAL-FP6.zip",
+      "version": "23.2"
+    },
+    {
+      "datetime": 1768674889,
+      "filename": "lineage-23.2-20260117-UNOFFICIAL-FP6.zip",
+      "id": "f91081d92b9677c1b12a3a07075584c4f43778cb0c8b8e2ec4fa34d77e9f6a90",
+      "romtype": "UNOFFICIAL",
+      "size": 1549709540,
+      "url": "https://github.com/arian-ota/ota/releases/download/23.2-FP6-f91081d9/lineage-23.2-20260117-UNOFFICIAL-FP6.zip",
       "version": "23.2"
     }
   ]
